@@ -5,3 +5,4 @@ O jogo foi modelado com python e OpenGL.
 Para rodar o jogo, basta dar:</p>
 <h2>python galaxian.py</h2>
 
+
